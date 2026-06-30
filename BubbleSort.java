@@ -1,5 +1,5 @@
+/*This is a program that shows the implementation of logic for performing Bubble sorting algorithm.*/
 import java.util.Scanner;
-
 public class BubbleSort {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
